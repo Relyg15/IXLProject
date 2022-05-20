@@ -1,4 +1,4 @@
-public class Runner {
+public class TestCases {
     public static void main(String[] args) {
         IXLQuestionGenerator gen = new IXLQuestionGenerator();
         gen.generateQuestions(1, 1);
